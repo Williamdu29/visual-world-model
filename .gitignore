@@ -1,0 +1,15 @@
+# datasets
+datasets/
+
+# checkpoints
+checkpoints/
+
+# logs
+logs/
+
+# python
+__pycache__/
+*.pyc
+
+# experiment outputs
+wandb/
