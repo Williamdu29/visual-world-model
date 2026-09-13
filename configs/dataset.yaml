@@ -1,0 +1,10 @@
+clean:
+
+  image_path:
+    /home/william29/visual-world-model/scripts/datasets/random/images.npy
+
+
+distractor:
+
+  image_path:
+    /home/william29/visual-world-model/scripts/datasets/distractor/images.npy
